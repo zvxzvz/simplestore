@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cdmedia/simplestore.git"
+    "url": "git+https://github.com/zvxzvz/simplestore.git"
   },
-  "author": "Chris Diana",
+  "author": "A min F",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cdmedia/simplestore/issues"
+    "url": "https://github.com/zvxzvz/simplestore/issues"
   },
   "private": true,
-  "homepage": "https://github.com/cdmedia/simplestore",
+  "homepage": "https://github.com/zvxzvz/simplestore",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-contrib-copy": "latest",
